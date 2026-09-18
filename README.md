@@ -9,7 +9,7 @@ The platform automates financial SMS telemetry extraction via generative AI, enf
 ## 🏗️ Architecture Topology
 
 ```
-+--------------------------+
+                     +--------------------------+
                      |  Browser / Client :3000  |
                      +--------------------------+
                                   |
